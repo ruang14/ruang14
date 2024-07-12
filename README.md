@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ruang14
 - 👀 I’m interested in learning new coding features
-- 🌱 I’m currently learning Java 8 features
-- 💞️ I’m looking to collaborate on Java 11 OCP
+- 🌱 I’m currently learning Java and Spring as I go
+- 💞️ I’m looking to collaborate on Java 17 OCP
 - 📫 How to reach me: ruangrobler14@yahoo.com
 
 <!---
